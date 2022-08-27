@@ -24,6 +24,7 @@ class ContohResorce(Resource):
 
 
 
+
 api.add_resource(ContohResorce,"/api",methods=["GET","POST"])
 
 
