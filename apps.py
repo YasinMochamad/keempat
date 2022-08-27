@@ -19,7 +19,7 @@ class ContohResorce(Resource):
     umur=request.form["umur"]
     identitas["nama"]=nama
     identitas["umur"]=umur
-    response={"msg":"sukses di masukkan"}
+    response={"msg":"sukses di masukkan bos"}
     return response
 
 
